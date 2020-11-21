@@ -7,9 +7,6 @@
 [submodule "libzmq"]
 	path = libzmq
 	url = https://github.com/zeromq/libzmq.git
-[submodule "openssl"]
-	path = openssl
-	url = https://github.com/openssl/openssl.git
 [submodule "thrift"]
 	path = thrift
 	url = https://github.com/apache/thrift.git
@@ -25,18 +22,12 @@
 [submodule "libusb"]
 	path = libusb
 	url = https://github.com/bastibl/libusb.git
-[submodule "hackrf"]
-	path = hackrf
-	url = https://github.com/bastibl/hackrf.git
 [submodule "gr-osmosdr"]
 	path = gr-osmosdr
 	url = https://github.com/bastibl/gr-osmosdr.git
 [submodule "gr-grand"]
 	path = gr-grand
 	url = https://github.com/bastibl/gr-grand.git
-[submodule "uhd"]
-	path = uhd
-	url = https://github.com/bastibl/uhd.git
 [submodule "gr-clenabled"]
 	path = gr-clenabled
 	url = https://github.com/ghostop14/gr-clenabled.git
